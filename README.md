@@ -1,6 +1,6 @@
-# 💰 Budget-Manager-VK
+# 💰 Budget Manager VK
 
-**VK Finance Tracker** is a comprehensive budget management mini-app seamlessly integrated into the **VKontakte SuperApp ecosystem**. Built with **React** and **VKUI**, it leverages the **VK Bridge** to interact with the platform's native features, providing users with a native-like experience for tracking expenses and visualizing financial data.
+**Budget Manager VK** is a comprehensive budget management mini-app seamlessly integrated into the **VKontakte SuperApp ecosystem**. Built with **React** and **VKUI**, it leverages the **VK Bridge** to interact with the platform's native features, providing users with a native-like experience for tracking expenses and visualizing financial data.
 
 ## 🚀 Key Features
 
