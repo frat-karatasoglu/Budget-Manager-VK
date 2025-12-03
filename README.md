@@ -21,7 +21,7 @@
 | Dashboard & Stats |
 <img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/dc48d9d1-c984-4e1e-83a2-c82764073a3c" />
 |Budget Form|
-(<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/35302d86-ad52-4457-a6fb-b69dc254d310" />
+<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/35302d86-ad52-4457-a6fb-b69dc254d310" />
 
 ## 💡 Why This Project?
 
